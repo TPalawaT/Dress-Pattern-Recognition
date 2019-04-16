@@ -11,6 +11,7 @@ After the model is one training, we can simply type in location of an image to p
 Active internet connection on first run of main.py</br>
 OpenCV - Version 3.4.2</br>
 Numpy - Version 0.24.1</br>
+Pandas - Version 0.24.1</br>
 Sklearn - Version 0.20.1</br>
 Urllib.request - Version 3.6</br>
 Other requirements are usually satisfied with the python package.</br>
